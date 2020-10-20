@@ -18,5 +18,7 @@
  - tests: It will have all the integration and E2E tests
  - vendor: This directory stores all the third-party dependencies locally so that the version doesn’t mismatch later
  
+ ### https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
+ 
 # dota2 related
 - https://wikiwiki.jp/dota2/
