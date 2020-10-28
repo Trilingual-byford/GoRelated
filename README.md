@@ -8,6 +8,7 @@
  - Building MicroService with Go: https://www.youtube.com/watch?v=eBeqtmrvVpg&t=215s
  - Api design guidance from MicroSoft:https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
  - validate Lib:https://github.com/go-playground/validator
+ - Gzip compression.
 ## Project Layout
  - api:Stores the versions of the APIs swagger files and also the proto and pb files for the gRPC protobuf interface
  - cmd:This will contain the entry point[main.go]files for all the services and also anyother container images if any
@@ -17,6 +18,7 @@
  - pkg: This directory will have the complete executing code of all the services in separate packages.
  - tests: It will have all the integration and E2E tests
  - vendor: This directory stores all the third-party dependencies locally so that the version doesn’t mismatch later
+
  
  ### https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
  ### example:https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
