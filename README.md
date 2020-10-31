@@ -9,6 +9,7 @@
  - Api design guidance from MicroSoft:https://docs.microsoft.com/en-us/azure/architecture/best-practices/api-design
  - validate Lib:https://github.com/go-playground/validator
  - Gzip compression.
+ - service registry and find etcd consul mdns kube-DNS
 ## Project Layout
  - api:Stores the versions of the APIs swagger files and also the proto and pb files for the gRPC protobuf interface
  - cmd:This will contain the entry point[main.go]files for all the services and also anyother container images if any
