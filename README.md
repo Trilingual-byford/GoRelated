@@ -19,7 +19,7 @@
  - pkg: This directory will have the complete executing code of all the services in separate packages.
  - tests: It will have all the integration and E2E tests
  - vendor: This directory stores all the third-party dependencies locally so that the version doesn’t mismatch later
-
+ - configure aws Credentials https://www.youtube.com/watch?v=SON8sY1iOBU
  
  ### https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
  ### example:https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
