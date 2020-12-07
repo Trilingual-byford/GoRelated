@@ -11,6 +11,7 @@
  - service registry and find etcd consul mdns kube-DNS
  - go watch:gowatch is a command line tool that builds and (re)starts your go project everytime you save a Go or template file.      https://github.com/silenceper/gowatch
  - graphPl using Go
+ - Read YAML file etc:https://github.com/spf13/viper
 ## Project Layout
  - api:Stores the versions of the APIs swagger files and also the proto and pb files for the gRPC protobuf interface
  - cmd:This will contain the entry point[main.go]files for all the services and also anyother container images if any
