@@ -22,6 +22,7 @@
  - tests: It will have all the integration and E2E tests
  - vendor: This directory stores all the third-party dependencies locally so that the version doesn’t mismatch later
  - configure aws Credentials https://www.youtube.com/watch?v=SON8sY1iOBU
+ 
 ### Project structure
 https://dev.to/bastianrob/golang-microservices-and-monorepo-gp3
  ### https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
