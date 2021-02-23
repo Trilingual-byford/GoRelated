@@ -29,6 +29,3 @@ https://dev.to/bastianrob/golang-microservices-and-monorepo-gp3
  ### example:https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
  ### Go Iris project example -
  
-# dota2 related
-- https://wikiwiki.jp/dota2/
-- 
