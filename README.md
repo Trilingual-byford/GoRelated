@@ -23,7 +23,7 @@
  - vendor: This directory stores all the third-party dependencies locally so that the version doesn’t mismatch later
  - configure aws Credentials https://www.youtube.com/watch?v=SON8sY1iOBU
  
-### Project structure
+### Project structure  
 https://dev.to/bastianrob/golang-microservices-and-monorepo-gp3
  ### https://www.velotio.com/engineering-blog/build-a-containerized-microservice-in-golang
  ### example:https://semaphoreci.com/community/tutorials/building-and-testing-a-rest-api-in-go-with-gorilla-mux-and-postgresql
